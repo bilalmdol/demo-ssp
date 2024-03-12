@@ -3,6 +3,7 @@ import React from "react";
 export const About = (props) => {
   return (
     <div id="about">
+      <div id="ordway_ssp"></div>
       <div className="container">
         <div className="row">
           <div className="col-xs-12 col-md-6">
